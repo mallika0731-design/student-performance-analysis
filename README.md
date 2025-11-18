@@ -26,6 +26,26 @@ Replace `YourUsername` with your actual system username.
 ## Usage
 Open and run the Jupyter Notebook in an environment with Python, pandas, matplotlib, and seaborn installed. Adjust file paths as noted in setup instructions.
 
+Replace `YourUsername` with your actual system username.
+
+## Project Structure
+- `student_analysis.ipynb`: Jupyter Notebook containing the full analysis including loading, cleaning, exploring, and visualizing the data.
+- `student-mat.csv`: Dataset (not included, to be downloaded separately).
+
+## Skills Demonstrated
+- Data cleaning and handling missing/duplicate values.
+- Statistical analysis and correlation.
+- Data visualization using matplotlib and seaborn.
+- Interpretation of data insights for academic performance.
+
+## Usage
+Open and run the Jupyter Notebook in an environment with Python, pandas, matplotlib, and seaborn installed. Adjust file paths as noted in setup instructions.
+
+## Conclusion
+This analysis highlights key relationships influencing student academic performance. The study confirms that increased study time tends to correlate positively with higher final grades, emphasizing the importance of consistent study habits. Additionally, the data reveals gender-based differences in average performance, with one gender showing marginally higher average scores. These insights reinforce the value of targeted academic support and personalized study strategies for improving student outcomes. Overall, this project demonstrates how data-driven approaches can help educators and institutions better understand factors affecting student success and guide intervention efforts effectively.
+
+
+
 ---
 
 This README ensures users understand the necessary dataset download step and how to prepare their environment for running your project smoothly.
